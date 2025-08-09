@@ -1,6 +1,3 @@
-
-# Prasunet_AD_04
-
 A modern Android Tic-Tac-Toe game application built with a modular architecture. This project demonstrates clean code practices, modularization, and Android development best practices.
 
 ## Features
